@@ -27,7 +27,7 @@
     <p>PAGOS EN EFECTIVO / TRANSFERENCIA 10% DE DESCUENTO || COMPRAS MAYORES A $25000 ENVIO GRATIS (CORRIENTES, CAPITAL)</p>
     
     <div class="d-flex justify-content-center align-items-center text-center img-container ratio ratio-16x9">
-    <img class="img rounded " src="<?php echo base_url("assets/img/serafina/bienvenida.jpeg") ?>" alt="Logo de la marca">
+    <img class="img rounded " src="<?php echo base_url("assets/img/serafina/bienvenida.jpeg") ?>" alt="Bienvenida">
     </div>
 </header>
 
