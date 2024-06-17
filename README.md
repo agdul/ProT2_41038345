@@ -15,11 +15,11 @@ El tamano es una cosa que me resulto muy dificil manejar nose que paso pero no l
 
 Comentarios generales: 
 roots:
-index -> http://localhost/ProT2_41038345/index
-quienes somos -> http://localhost/ProT2_41038345/quienes_somos
-acerca de -> http://localhost/ProT2_41038345/acerca_de
-registro -> http://localhost/ProT2_41038345/registrate
-login -> http://localhost/ProT2_41038345/login
+index -> http://localhost/ProT2_41038345/index<br>
+quienes somos -> http://localhost/ProT2_41038345/quienes_somos<br>
+acerca de -> http://localhost/ProT2_41038345/acerca_de<br>
+registro -> http://localhost/ProT2_41038345/registrate<br>
+login -> http://localhost/ProT2_41038345/login<br>
 
 
 -Agradecería mucho sus comentarios y sugerencias sobre cómo puedo mejorar tanto en aspectos de estilo y maquetación como en la respuesta 
