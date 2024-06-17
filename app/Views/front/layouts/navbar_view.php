@@ -5,7 +5,7 @@
 <!-- inicio del Navbar -->
 
 <nav class="navbar navbar-expand-lg bg-custom rounded mt-3" aria-label="Eleventh navbar example">
-  <div class="container-fluid">
+  <div class="container-fluid logotipo">
     <!-- El Logo de la empresa con su respectiva referencia  -->
     <a class="navbar-brand" href="<?php echo base_url("index") ?>">
     <img class="img rounded-pill" src="<?php echo base_url("assets/img/serafina/serafina_logo.jpeg") ?>" alt="Logo de la marca" width="75" height="auto">

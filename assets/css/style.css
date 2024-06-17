@@ -135,3 +135,8 @@ header p {
         display: none;
     }
 }
+
+/* hover del logotipo */
+nav .logotipo .navbar-brand img:hover{
+  transform: scale(1.2);
+}
