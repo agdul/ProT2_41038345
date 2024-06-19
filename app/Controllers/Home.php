@@ -35,4 +35,10 @@ class Home extends BaseController
                     't_head' => 'Registrate en Serafina'];
         return view("front/layouts/registro_contenido",$titulo);
     }
+
+    public function productos(){
+        $titulo = ['titulo' => 'Productos',
+                    't_head' => 'Tienda Serafina'];
+        return view("front/layouts/productos_contenido",$titulo);
+    }
 }

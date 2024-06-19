@@ -20,19 +20,21 @@
     <!-- CLASES DE FONT AWESOME 
        para los iconos del footer-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    <link rel="icon" type="image/png" href="assets\img\serafina\mate.png">
+    <link rel="icon" type="image/png" href="assets/img/serafina/mate.png">
 </head>
 
-<header class="text-center texto-deslizante">
+<header class="text-center">
+    <div class="texto-deslizante">
     <p>PAGOS EN EFECTIVO / TRANSFERENCIA 10% DE DESCUENTO || COMPRAS MAYORES A $25000 ENVIO GRATIS (CORRIENTES, CAPITAL)</p>
-    
-    <div class="d-flex justify-content-center align-items-center text-center img-container ratio ratio-16x9">
-    <img class="img rounded " src="<?php echo base_url("assets/img/serafina/bienvenida.jpeg") ?>" alt="Bienvenida">
     </div>
+    <div class="text-center mx-auto img-contenido pb-2">
+    <img class="rounded img-fluid mx-auto d-block" src="<?php echo base_url("assets/img/serafina/bienvenida.jpeg") ?>" alt="Bienvenida">
+    </div>
+    
 </header>
 
 
-<!-- Fin del head  -->
+<!-- Fin del header  -->
 
 <body>
     <?php echo $this->include('front/layouts/navbar_view'); ?>

@@ -106,18 +106,20 @@ header p {
   /*Fin - HEAD PUBLICITARIO */
 
   /* Para controlar el tamano de la img de bienvenida  */
-
-  /* .img-container {
-    
-     width: 50%; 
-  }*/
+  @media (min-width: 1300px) {
+    .img-contenido{
+      width: 50%;
+      margin-right: auto;
+      margin-left: auto;
+    }
+}
   
-  .img-container img {
+  /* .img-container img {
     
     /*  width: auto;  Ajusta la imagen al ancho deseado o usa % si prefieres */
-    height: auto; /* Mantiene la proporción de la imagen */
-    max-width: 100%; /* Asegura que la imagen no se desborde del contenedor */
-  }
+    /* height: auto; /*  Mantiene la proporción de la imagen */
+    /* max-width: 100%; /* Asegura que la imagen no se desborde del contenedor */
+  /* }
 /* 
   @media (min-width: 1400px) {
     .img-container img {
@@ -130,11 +132,12 @@ header p {
   }  */
 
   /* Desaparece el titulo del navbar cuando la pantalla se hace muy chica  */
-  @media (max-width: 404px) {
+  @media (max-width: 488px) {
     .navbar-brand-custom {
         display: none;
     }
 }
+
 
 /* hover del logotipo */
 nav .logotipo .navbar-brand img:hover{

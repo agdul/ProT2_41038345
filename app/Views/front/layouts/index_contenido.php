@@ -27,13 +27,13 @@
     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div id="index_carousel-item" class="carousel-item active">
-                <img src="assets\img\serafina\1.jpeg" class="d-block mx-auto" alt="...">
+                <img src="assets\img\serafina\3.jpeg" class="d-block mx-auto" alt="...">
             </div>
             <div id="index_carousel-item" class="carousel-item">
                 <img src="assets\img\serafina\2.jpeg" class="d-block mx-auto" alt="...">
             </div>
             <div id="index_carousel-item" class="carousel-item">
-                <img src="assets\img\serafina\3.jpeg" class="d-block mx-auto" alt="...">
+                <img src="assets\img\serafina\1.jpeg" class="d-block mx-auto" alt="...">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
