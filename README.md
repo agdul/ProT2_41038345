@@ -1,4 +1,4 @@
-<h1 style='text-aline-center'>README!!</h1>
+<h1 style='text-aline: center'>README!!</h1>
 
 Hola buenas gracias por visitar mi codigo.<br>
 
