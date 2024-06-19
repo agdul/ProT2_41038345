@@ -1,9 +1,9 @@
-<h1>README!!</h1>
+<h1 style='text-aline-center'>README!!</h1>
 
-Hola buenas gracias por visitar mi codigo.
+Hola buenas gracias por visitar mi codigo.<br>
 
 
-Algunos aspectos a considerar al momento de correcion profes:
+Algunos aspectos a considerar al momento de correcion profes:<br>
 -Entiendo que la consiga en el apartado de Quienes Somos, sugiere que useremos (Cards). Devido al enfoque y a la funcionalidad que el sito al cual va a ser destinado no hay la necesidad de implementar en esa seccion los cards. Sin embargo los utilice y los deje a modo de ejemplo debajo del todo en el index (Solo se puede acceder tocando en el logotipo del navbar) porque van a ser parte del apartado de Prodcutos donde proximanente estara esa implementacion de los cards, sin embargo los deje vistos.
 
 -Acerca de me quedo corto no sabia que mas dibujarle quedo escueto pero conciso
